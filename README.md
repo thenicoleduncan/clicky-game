@@ -1,4 +1,4 @@
-<h1>The Clickster<h1>
+<h1>The Clicky Game<h1>
 
 <h2>Overview</h2>
 <ul>
