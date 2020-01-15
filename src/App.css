@@ -1,15 +1,31 @@
 
+.App {
+  background-color: #fff7f5;
+}
+
 .App-header {
-  background-color: #222;
+  background-color: #fff7f5;
   height: 80px;
   padding: 10px;
-  color: white;
+  color: #001a11;
+  font-family: 'Gayathri', sans-serif;
+  font-weight: bold;
 }
 
 .App-title {
-  font-size: 2em;
+  font-size: 4em;
+  font-family: 'Gayathri', sans-serif;
+  background-color: #fff7f5;
 }
 
 .App-intro {
   font-size: large;
+  font-family: 'Gayathri', sans-serif;
+  background-color: #fff7f5;
+}
+
+footer {
+  font-family: 'Gayathri', sans-serif;
+  background-color: #fff7f5;
+  
 }
