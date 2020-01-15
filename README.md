@@ -25,7 +25,7 @@
 </ul>
 <p>I chose not to do a separate header component but it could be done.</p>
 
-<h2>The Clicky Game can be found on Heroku <a href='https://thenicoleduncan.github.io/clicky-game/'>here</a></h2>
+<h2>The Clicky Game app can be played here <a href='https://thenicoleduncan.github.io/clicky-game/'>here</a></h2>
 
 
 <footer>Clicky Game by Nicole Duncan.</footer>
